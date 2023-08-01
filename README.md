@@ -1,2 +1,1 @@
-# DS_Assingments
-All Assingments For Data Science
+# Assignments-Multi-Linear-Regression
